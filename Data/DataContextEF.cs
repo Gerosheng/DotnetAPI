@@ -40,6 +40,5 @@ namespace DotnetAPI.Data
             modelBuilder.Entity<UserJobInfo>()
                 .HasKey(u => u.UserId);
         }
-
     }
 }
