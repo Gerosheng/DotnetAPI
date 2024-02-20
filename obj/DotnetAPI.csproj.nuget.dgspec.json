@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {}
+    "C:\\Users\\Jérôme\\Code\\BeCode\\DotnetAPI\\DotnetAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {
+    "C:\\Users\\Jérôme\\Code\\BeCode\\DotnetAPI\\DotnetAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Jérôme\\Code\\BeCode\\DotnetAPI\\DotnetAPI.csproj",
         "projectName": "DotnetAPI",
-        "projectPath": "C:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
-        "packagesPath": "C:\\Users\\G-She\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\obj\\",
+        "projectPath": "C:\\Users\\Jérôme\\Code\\BeCode\\DotnetAPI\\DotnetAPI.csproj",
+        "packagesPath": "C:\\Users\\Jérôme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jérôme\\Code\\BeCode\\DotnetAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\G-She\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jérôme\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
