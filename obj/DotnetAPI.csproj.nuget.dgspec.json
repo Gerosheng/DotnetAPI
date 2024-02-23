@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {}
+    "c:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {
+    "c:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
+        "projectUniqueName": "c:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
         "projectName": "DotnetAPI",
-        "projectPath": "C:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
+        "projectPath": "c:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
         "packagesPath": "C:\\Users\\G-She\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\obj\\",
+        "outputPath": "c:\\Users\\G-She\\code\\dotnet-course-code\\DotnetAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\G-She\\AppData\\Roaming\\NuGet\\NuGet.Config"
