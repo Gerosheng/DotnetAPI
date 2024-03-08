@@ -41,7 +41,7 @@ public class UserCompleteController : ControllerBase
         return users;
     }
     
-    [HttpPut("EditUser")]
+    [HttpPut("UpsertUser")]
     public IActionResult UpsertUser(UserComplete user)
     {
         string sql = @"EXEC TutorialAppSchema.spUser_Upsert
